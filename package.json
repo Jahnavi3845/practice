@@ -9,7 +9,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cypress": "^14.1.0"
+    "cypress": "^14.1.0",
+    "js-yaml": "^4.1.1",
+    "yaml": "^2.8.3"
   },
   "devDependencies": {
     "cypress-plugin-api": "^2.11.2"

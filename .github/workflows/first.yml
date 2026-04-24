@@ -1,4 +1,7 @@
-name: Errors that we may overlook
-ports:
-  - 80:20
-  - 80:80
+app:
+  port: 20:20
+  debug: off
+  time: 80:20
+  ocatalValue: "0123"
+  indentation: true
+  date: 2024-01-01
